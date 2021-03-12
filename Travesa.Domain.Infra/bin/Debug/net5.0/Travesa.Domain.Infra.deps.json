@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Travesa.Domain.Infra/1.0.0": {
+        "dependencies": {
+          "Travesa.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Travesa.Domain.Infra.dll": {}
+        }
+      },
+      "Travesa.Domain/1.0.0": {
+        "runtime": {
+          "Travesa.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Travesa.Domain.Infra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Travesa.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
