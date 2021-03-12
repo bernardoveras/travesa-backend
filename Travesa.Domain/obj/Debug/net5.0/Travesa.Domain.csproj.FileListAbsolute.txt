@@ -1,0 +1,12 @@
+D:\Projetos\travesa\backend\Travesa.Domain\bin\Debug\net5.0\Travesa.Domain.deps.json
+D:\Projetos\travesa\backend\Travesa.Domain\bin\Debug\net5.0\Travesa.Domain.dll
+D:\Projetos\travesa\backend\Travesa.Domain\bin\Debug\net5.0\ref\Travesa.Domain.dll
+D:\Projetos\travesa\backend\Travesa.Domain\bin\Debug\net5.0\Travesa.Domain.pdb
+D:\Projetos\travesa\backend\Travesa.Domain\obj\Debug\net5.0\Travesa.Domain.csprojAssemblyReference.cache
+D:\Projetos\travesa\backend\Travesa.Domain\obj\Debug\net5.0\Travesa.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\travesa\backend\Travesa.Domain\obj\Debug\net5.0\Travesa.Domain.AssemblyInfoInputs.cache
+D:\Projetos\travesa\backend\Travesa.Domain\obj\Debug\net5.0\Travesa.Domain.AssemblyInfo.cs
+D:\Projetos\travesa\backend\Travesa.Domain\obj\Debug\net5.0\Travesa.Domain.csproj.CoreCompileInputs.cache
+D:\Projetos\travesa\backend\Travesa.Domain\obj\Debug\net5.0\Travesa.Domain.dll
+D:\Projetos\travesa\backend\Travesa.Domain\obj\Debug\net5.0\ref\Travesa.Domain.dll
+D:\Projetos\travesa\backend\Travesa.Domain\obj\Debug\net5.0\Travesa.Domain.pdb
