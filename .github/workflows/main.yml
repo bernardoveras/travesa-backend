@@ -1,9 +1,7 @@
-name: .NET Core
+name: [main] Build and Test
 
 on:
   push:
-    branches: [ main ]
-  pull_request:
     branches: [ main ]
 
 jobs:
@@ -11,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     name: .NET 5 Application
     steps:
-    - uses: actions/checkout@main
+    - uses: actions/checkout@v1
     - name: Setup .NET Core
       uses: actions/setup-dotnet@v1
       with:
